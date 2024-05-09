@@ -1,0 +1,2 @@
+require("sajid")
+print("Hello")
